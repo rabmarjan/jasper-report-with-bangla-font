@@ -1,4 +1,4 @@
-package com.javatechie.report.entity;
+package com.marjan.report.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package com.javatechie.report.repository;
+package com.marjan.report.repository;
 
-import com.javatechie.report.entity.Employee;
+import com.marjan.report.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EmployeeRepository extends JpaRepository<Employee,Integer> {

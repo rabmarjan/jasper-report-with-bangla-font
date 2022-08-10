@@ -1,15 +1,12 @@
-package com.javatechie.report.service;
+package com.marjan.report.service;
 
-import com.javatechie.report.entity.Employee;
-import com.javatechie.report.repository.EmployeeRepository;
+import com.marjan.report.entity.Employee;
+import com.marjan.report.repository.EmployeeRepository;
 import net.sf.jasperreports.engine.*;
 import net.sf.jasperreports.engine.data.JRBeanCollectionDataSource;
-import net.sf.jasperreports.engine.design.JasperDesign;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.util.ResourceUtils;
 
-import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.io.OutputStream;

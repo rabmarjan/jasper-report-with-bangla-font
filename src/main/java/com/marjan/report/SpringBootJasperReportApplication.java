@@ -1,8 +1,8 @@
-package com.javatechie.report;
+package com.marjan.report;
 
-import com.javatechie.report.entity.Employee;
-import com.javatechie.report.repository.EmployeeRepository;
-import com.javatechie.report.service.ReportService;
+import com.marjan.report.entity.Employee;
+import com.marjan.report.repository.EmployeeRepository;
+import com.marjan.report.service.ReportService;
 import net.sf.jasperreports.engine.JRException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletResponse;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.util.List;
