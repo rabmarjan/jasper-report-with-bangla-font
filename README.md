@@ -6,9 +6,7 @@ Link : https://community.jaspersoft.com/project/jaspersoft-studio/releases
 
 Jasper Studio version 6.19.1
 
-'''bash
 mvn install:install-file -Dfile=/home/marjan/fonts-extention.jar -DgroupId=com.marjan.fonts -DartifactId=bangla-font -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true
-'''
 
 Then add to the pom file
 
