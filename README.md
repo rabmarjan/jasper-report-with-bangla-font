@@ -3,3 +3,5 @@ How to generate dynamic report using spring boot and jasper
 
 *Download JasperSoft Studio tool*
 Link : https://community.jaspersoft.com/project/jaspersoft-studio/releases
+
+Jasper Studio version 6.19.1
