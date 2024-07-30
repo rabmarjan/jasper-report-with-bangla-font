@@ -1,5 +1,7 @@
 # spring-jasper-report
-How to generate dynamic report using spring boot and jasper
+How to generate dynamic Bangla reports using Spring Boot and Jasper. 
+Blog link
+https://medium.com/p/a926b436f1df
 
 *Download JasperSoft Studio tool*
 Link : https://community.jaspersoft.com/project/jaspersoft-studio/releases
